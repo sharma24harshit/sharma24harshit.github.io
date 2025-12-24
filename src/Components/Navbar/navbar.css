@@ -1,0 +1,9 @@
+.Title{
+    font-size: 36px;
+    font-weight: bold;
+}
+.navbar{
+    position: fixed;
+    z-index: 5;
+    width: 100%; 
+}

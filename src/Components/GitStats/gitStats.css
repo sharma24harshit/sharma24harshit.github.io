@@ -1,0 +1,29 @@
+.section_title{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.gitStats_div{
+border-radius: 13px;
+
+text-align: center;
+margin: auto;
+margin-bottom: 60px;
+padding: 15px;
+box-shadow: rgb(144,205,244) 0px 10px 20px,rgb(144,205,244) 0px 6px 6px;
+display: flex;
+justify-content: center;
+overflow-wrap: break-word;
+box-sizing: border-box;
+}
+.img1{
+    width: inherit;
+}
+.img2{
+    width: inherit; 
+}
+.gitStats_div:hover{
+    box-shadow: rgb(4, 137, 219) 0px 10px 20px,rgb(1, 92, 148) 0px 6px 6px;
+}

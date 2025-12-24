@@ -1,0 +1,28 @@
+.section_title{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+}
+.skills_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    border-radius: 10%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    transition: transform ease 400ms;
+}
+.skills_div:hover{
+    box-shadow: rgb(144,205,244) 0px 19px 38px, rgb(144,205,244) 0px 15px 12px;
+    transform: translate(10px,-25px);
+}
+.skills_title{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.skills_title:hover{
+    cursor: default;
+}

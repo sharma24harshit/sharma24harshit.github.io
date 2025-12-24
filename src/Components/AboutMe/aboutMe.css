@@ -1,0 +1,20 @@
+.main_box{
+   /* border: 1px solid red; */
+}
+.main_box>div:nth-child(2){
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 75px;
+}
+.hero_img{
+    height: 600px;
+}
+
+@media (max-width:765px){
+    .main_box>div:nth-child(1){
+       
+        margin-top: 75px;
+    } 
+}
