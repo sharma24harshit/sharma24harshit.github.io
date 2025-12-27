@@ -81,7 +81,7 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "Galific Solutions",
     type: "Full-time",
-    duration: "Jan 2025 - Present",
+    duration: "Jan 2025 - Sept 2025",
     description:
       "Worked on scalable React applications focusing on performance and UI consistency.",
     points: [
