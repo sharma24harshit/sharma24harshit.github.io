@@ -43,7 +43,7 @@ function App() {
        <Projects  ProjectsRef={ProjectsRef}/>
        <Experience />
        <Calender/>
-       <GitStats/>
+       {/* <GitStats/> */}
        <Contact ContactRef={ContactRef}  />
     </div>
   );

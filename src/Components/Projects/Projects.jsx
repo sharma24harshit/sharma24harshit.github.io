@@ -1,8 +1,8 @@
 import React from 'react'
 import "./projects.css"
 import {
-  Heading, Avatar, Box, Center, Text,
-  Stack, Button, Badge, useColorModeValue, SimpleGrid, Image,
+  Heading, Box, Center, Text,
+  Stack, Button, Badge, SimpleGrid, Image,
 } from '@chakra-ui/react'
 
 function Projects({ProjectsRef}) {

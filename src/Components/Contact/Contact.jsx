@@ -24,7 +24,7 @@ import {
   MdMailOutline,
   MdOutlineEmail,
 } from 'react-icons/md'
-import { BsGithub, BsDiscord, BsPerson } from 'react-icons/bs'
+import { BsGithub, BsPerson } from 'react-icons/bs'
 import { FaLinkedin } from "react-icons/fa";
 import { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
@@ -139,7 +139,7 @@ export default function Contact({ ContactRef }) {
                       onClick={handleCopyClick}
                     />             
                     </Tooltip>
-                    <a href="https://github.com/sharma24harshit" target='_blank'>
+                    <a href="https://github.com/sharma24harshit" target='_blank' rel="noreferrer">
                       <IconButton
                         aria-label="github"
                         size="lg"
@@ -149,7 +149,7 @@ export default function Contact({ ContactRef }) {
                         icon={<BsGithub size="28px" color='white' />}
                       />
                     </a>
-                    <a href="https://www.linkedin.com/in/harshit-sharma-86624515b/" target='_blank'>
+                    <a href="https://www.linkedin.com/in/harshit-sharma-86624515b/" target='_blank' rel="noreferrer">
                       <IconButton
                         aria-label="linkedin"
                         size="lg"

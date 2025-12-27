@@ -4,7 +4,7 @@ import { Box, Image, Text } from '@chakra-ui/react';
 
 const GitStats = () => {
     const username = 'sharma24harshit';
-    const [data, setData] = React.useState([]);
+    // const [data, setData] = React.useState([]);
   
 
 
