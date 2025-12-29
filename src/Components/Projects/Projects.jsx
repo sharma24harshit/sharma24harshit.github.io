@@ -75,10 +75,10 @@ const ProjectData = [
   {
     BigImg: "projectImg1.PNG",
     Projectname: "VirtualShop.com",
-    description: "A team of five members built a front-end clone of the IndustryBuying webpage within a time span of five days. The project included features such as a login page, products page, and add/delete functionality for products in the cart.",
+    description: "Developed a responsive e-commerce web application for purchasing products across fashion, mobile devices, and audio accessories.",
     stacks: ["React", "Redux", "JAVASCRIPT", "HTML","CSS"],
-    gitHubLink: "https://github.com/sharma24harshit/Industrybuying.com-clone",
-     LiveLink: "https://minishop-nine.vercel.app/"
+    gitHubLink: "https://github.com/sharma24harshit/virtualShop",
+     LiveLink: "https://virtualshop-nine.vercel.app/"
   },
   {
     BigImg: "projectImg2.PNG",
